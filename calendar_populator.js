@@ -1,59 +1,31 @@
 const eventlist = {
-    "2024-09-02": [{name: "=Semesterstart="}],
-    "2024-10-30": [{name: "Brætspilsaften", logo: "adsl.png"}],
-    "2024-11-27": [{name: "Brætspilsaften med Prosa", logo: "adsl.png"}],
-    "2024-10-02": [{name: "Brætspilsaften med Prosa", logo: "adsl.png"}],
-    "2024-10-23": [{name: "Generalforsamling 2024", logo: "adsl.png"}],
-
-
-    "2024-09-12": [{name: "Filmafstemning", logo: "fkult.webp"}],
-    "2024-09-13": [{name: "Foobar m. Medlemsindmelding", logo: "flogo.svg"}],
-
-    "2024-09-19": [{name: "Syretrip på begge sider af Stillehavet", logo: "fkult.webp"}],
-    "2024-09-20": [{name: "Generalforsamling 2024", logo: "flogo.svg"}],
-    "2024-09-27": [{name: "Foobar m. Coolshop", logo: "flogo.svg"}],
+    "2025-02-03": [{name: "=Semesterstart="}],
     
-    "2024-10-10": [{name: "Giorgios Favoritter", logo: "fkult.webp"}],
-    "2024-10-11": [{name: "Farcrawl m. Topholt", logo: "flogo.svg"}],
+    "2025-02-06": [{name: "Filmafstemning", logo: "fkult.webp"}],
+    "2025-02-13": [{name: "F-Kult: Filmaften 1", logo: "fkult.webp"}],
+    "2025-02-27": [{name: "F-Kult: Filmaften 2", logo: "fkult.webp"}],
+    "2025-03-13": [{name: "F-Kult: Filmaften 3", logo: "fkult.webp"}],
+    "2025-03-27": [{name: "F-Kult: Filmaften 4", logo: "fkult.webp"}],
+    "2025-04-10": [{name: "F-Kult: Filmaften 5", logo: "fkult.webp"}],
+    "2025-04-24": [{name: "F-Kult: Filmaften 6", logo: "fkult.webp"}],
+    "2025-05-08": [{name: "F-Kult: Filmaften 7", logo: "fkult.webp"}],
 
-    "2024-10-17": [{name: "Klassikkere som ingen af jer har set", logo: "fkult.webp"}],
-    "2024-10-18": [{name: "Fyttetur 2024", logo: "flogo.svg"}],
-    "2024-10-19": [{name: "Fyttetur 2024", logo: "flogo.svg"}],
-    "2024-10-20": [{name: "Fyttetur 2024", logo: "flogo.svg"}],
-    "2024-10-21": [{name: "Fyttetur 2024", logo: "flogo.svg"}],
+    "2025-02-20": [{name: "Facking v7.0", logo: "fit.svg"}],
+    "2025-04-03": [{name: "Facking v7.5", logo: "fit.svg"}],
 
-    "2024-10-24": [{name: "Facking v6", logo: "fit.svg"}],
-    "2024-10-25": [{name: "FLAN 10946.0", logo: "flan.webp"}],
-    "2024-10-26": [{name: "FLAN 10946.0", logo: "flan.webp"}],
-    "2024-10-27": [{name: "FLAN 10946.0", logo: "flan.webp"}],
+    "2025-04-04": [{name: "FLAN 17711.0", logo: "flan.webp"}],
+    "2025-04-05": [{name: "FLAN 17711.0", logo: "flan.webp"}],
+    "2025-04-06": [{name: "FLAN 17711.0", logo: "flan.webp"}],
 
-    "2024-10-31": [{name: "2000s summed up <3", logo: "fkult.webp"}],
-    "2024-11-01": [{name: "Fnugfald", logo: "flogo.svg"}],
+    "2025-02-28": [{name: "Fastelavn", logo: "initiv.svg"}],
+    "2025-03-21": [{name: "F-Dag", logo: "initiv.svg"}],
+    "2025-04-11": [{name: "Feaster", logo: "initiv.svg"}],
+    "2025-05-09": [{name: "F-Sportsdag", logo: "initiv.svg"}],
 
-    "2024-11-06": [{name: "Åben TREO-forsamling", logo: "flogo.svg"}],
-    "2024-11-08": [{name: "F-dag", logo: "initiv.svg"}],
-
-    "2024-11-09": [{name: "", logo: "de-klubben.png"}],
-    // CreateJam
-    "2024-11-08": [{name: "Create Jam Fall 2024", logo: "createjam.png"}],
-    "2024-11-09": [{name: "DE-Klubben 25 års jubilæum / Create Jam Fall 2024", logo: ""}],
-    "2024-11-10": [{name: "Create Jam Fall 2024", logo: "createjam.png"}],
-
-    "2024-11-13": [{name: "Foret øver julesange", logo: "flogo.svg"}],
-    "2024-11-14": [{name: "The Building", logo: "fkult.webp"}],
-    "2024-11-15": [{name: "BIT LAN", logo: "bitlan2024.png"}],
-    "2024-11-16": [{name: "BIT LAN", logo: "bitlan2024.png"}],
-    "2024-11-17": [{name: "BIT LAN", logo: "bitlan2024.png"}],
-
-    "2024-11-22": [{name: "Fjulestue", logo: "initiv.svg"}],
-    "2024-11-28": [{name: "Over the top action comedy", logo: "fkult.webp"}],
-    "2024-12-06": [{name: "Fjulefrokost", logo: "initiv.svg"}],
-    "2024-12-12": [{name: "Julefilm", logo: "fkult.webp"}],
-
-    "2024-12-20": [{name: "=Projektafleverings deadline="}],
+    //"2024-12-20": [{name: "=Projektafleverings deadline="}],
 };
-const year = 2024;
-const months = [9,10,11,12,1];
+const year = 2025;
+const months = [2,3,4,5,6];
 const options = {
     year: 'numeric',
     month: '2-digit',
