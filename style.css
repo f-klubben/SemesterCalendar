@@ -25,7 +25,7 @@ main {
     background-color: white;
     text-align: center;
     padding: 0.25rem;
-    text-transform: capitalize;
+    /*text-transform: capitalize;*/
     line-height: 1.1337; /* L33T magic number! 🪄✨ */
 }
 .month h3 {

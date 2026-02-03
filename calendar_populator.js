@@ -1,30 +1,42 @@
 const eventlist = {
-    "2025-02-03": [{name: "=Semesterstart="}],
+    "2026-02-04": [{name: "FredagsStandup: Februar", logo: "flogo.svg"}],
+    "2026-03-04": [{name: "FredagsStandup: Marts", logo: "flogo.svg"}],
+    "2026-04-08": [{name: "FredagsStandup: April", logo: "flogo.svg"}],
+    "2026-05-06": [{name: "FredagsStandup: Maj", logo: "flogo.svg"}],
+    "2026-06-03": [{name: "FredagsStandup: Juni", logo: "flogo.svg"}],
     
-    "2025-02-06": [{name: "Filmafstemning", logo: "fkult.webp"}],
-    "2025-02-13": [{name: "F-Kult: Filmaften 1", logo: "fkult.webp"}],
-    "2025-02-27": [{name: "F-Kult: Filmaften 2", logo: "fkult.webp"}],
-    "2025-03-13": [{name: "F-Kult: Filmaften 3", logo: "fkult.webp"}],
-    "2025-03-27": [{name: "F-Kult: Filmaften 4", logo: "fkult.webp"}],
-    "2025-04-10": [{name: "F-Kult: Filmaften 5", logo: "fkult.webp"}],
-    "2025-04-24": [{name: "F-Kult: Filmaften 6", logo: "fkult.webp"}],
-    "2025-05-08": [{name: "F-Kult: Filmaften 7", logo: "fkult.webp"}],
+    "2026-02-06": [{name: "Bærbar: Semesterstart", logo: "flogo.svg"}],
+    "2026-03-06": [{name: "Bærbar", logo: "flogo.svg"}],
 
-    "2025-02-20": [{name: "Facking v7.0", logo: "fit.svg"}],
-    "2025-04-03": [{name: "Facking v7.5", logo: "fit.svg"}],
+    "2026-02-05": [{name: "Opstart og filmafstemning", logo: "fkult.webp"}],    
+    "2026-02-12": [{name: "Filmaften 1", logo: "fkult.webp"}],
+    "2026-02-26": [{name: "Filmaften 2", logo: "fkult.webp"}],
+    "2026-03-12": [{name: "Filmaften 3", logo: "fkult.webp"}],
+    "2026-03-26": [{name: "Filmaften 4", logo: "fkult.webp"}],
+    "2026-04-09": [{name: "Filmaften 5", logo: "fkult.webp"}],
+    "2026-04-23": [{name: "Filmaften 6", logo: "fkult.webp"}],
+    "2026-05-07": [{name: "Filmaften 7", logo: "fkult.webp"}],
+    "2026-05-21": [{name: "Filmaften 8", logo: "fkult.webp"}],
+    
+    "2026-02-13": [{name: "Val(g)entines Bar m. SoFiA", logo: "adsl.png"}],
 
-    "2025-04-04": [{name: "FLAN 17711.0", logo: "flan.webp"}],
-    "2025-04-05": [{name: "FLAN 17711.0", logo: "flan.webp"}],
-    "2025-04-06": [{name: "FLAN 17711.0", logo: "flan.webp"}],
+    "2026-02-20": [{name: "F-astelavn", logo: "initiv.svg"}],
+    "2026-03-20": [{name: "F-dag", logo: "initiv.svg"}],
+    "2026-04-10": [{name: "Feaster", logo: "initiv.svg"}],
 
-    "2025-02-28": [{name: "Fastelavn", logo: "initiv.svg"}],
-    "2025-03-21": [{name: "F-Dag", logo: "initiv.svg"}],
-    "2025-04-11": [{name: "Feaster", logo: "initiv.svg"}],
-    "2025-05-09": [{name: "F-Sportsdag", logo: "initiv.svg"}],
+    "2026-04-02": [{name: "Facking v8", logo: "fit.svg"}],
+    "2026-04-03": [{name: "FLAN 46368.0", logo: "flan.webp"}],
+    "2026-04-04": [{name: "FLAN 46368.0", logo: "flan.webp"}],
+    "2026-04-05": [{name: "FLAN 46368.0", logo: "flan.webp"}],
+    
+    "2026-05-02": [{name: "F-Klubbens 50-års Jubilæum", logo: "flogo.svg"}],
+    "2026-05-14": [{name: "F-Sportsdag", logo: "initiv.svg"}],
 
+    //"2025-09-19": [{name: "Generalforsamling 2025", logo: "flogo.svg"}],
+    //"2025-09-24": [{name: "Brætspilsaften m. Prosa", logo: "adsl.png"}],
     //"2024-12-20": [{name: "=Projektafleverings deadline="}],
 };
-const year = 2025;
+const year = 2026;
 const months = [2,3,4,5,6];
 const options = {
     year: 'numeric',
