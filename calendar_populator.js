@@ -1,7 +1,7 @@
 const eventlist = {
     "2026-02-04": [{name: "FredagsStandup: Februar", logo: "flogo.svg"}],
     "2026-03-04": [{name: "FredagsStandup: Marts", logo: "flogo.svg"}],
-    "2026-04-08": [{name: "FredagsStandup: April", logo: "flogo.svg"}],
+    "2026-04-01": [{name: "FredagsStandup: April", logo: "flogo.svg"}],
     "2026-05-06": [{name: "FredagsStandup: Maj", logo: "flogo.svg"}],
     "2026-06-03": [{name: "FredagsStandup: Juni", logo: "flogo.svg"}],
     
