@@ -32,6 +32,13 @@ const eventlist = {
     "2026-05-02": [{name: "F-Klubbens 50-års Jubilæum", logo: "flogo.svg"}],
     "2026-05-14": [{name: "F-Sportsdag", logo: "initiv.svg"}],
 
+    "2026-02-18": [{name: "Linux Install Party", logo: "asck.png"}],
+    "2026-03-04": [{name: "Git Gut with Git and Shell", logo: "asck.png"}],
+    "2026-03-18": [{name: "SBCC - Running & Benchmarking Clusters", logo: "asck.png"}],
+    "2026-04-08": [{name: "Code Golfing 101 - Elegance in Conciseness", logo: "asck.png"}],
+    "2026-04-22": [{name: "Kubernetes 101 - Distributed Computing", logo: "asck.png"}],
+    "2026-05-06": [{name: "NixOS & Declarative Configuration", logo: "asck.png"}],
+
     //"2025-09-19": [{name: "Generalforsamling 2025", logo: "flogo.svg"}],
     //"2025-09-24": [{name: "Brætspilsaften m. Prosa", logo: "adsl.png"}],
     //"2024-12-20": [{name: "=Projektafleverings deadline="}],
