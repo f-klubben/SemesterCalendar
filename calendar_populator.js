@@ -1,8 +1,12 @@
 const eventlist = {
     "2026-02-04": [{name: "FredagsStandup: Februar", logo: "flogo.svg"}],
-    "2026-03-04": [{name: "FredagsStandup: Marts", logo: "flogo.svg"}],
+    "2026-02-18": [{name: "Linux Install Party", logo: "asck.png"}],
+    "2026-03-04": [{name: "FredagsStandup: Marts", logo: "flogo.svg"}, {name: "Git Gut with Git and Shell", logo: "asck.png"}],
+    "2026-03-18": [{name: "SBCC - Running & Benchmarking Clusters", logo: "asck.png"}],
     "2026-04-01": [{name: "FredagsStandup: April", logo: "flogo.svg"}],
-    "2026-05-06": [{name: "FredagsStandup: Maj", logo: "flogo.svg"}],
+    "2026-04-08": [{name: "Code Golfing 101 - Elegance in Conciseness", logo: "asck.png"}],
+    "2026-04-22": [{name: "Kubernetes 101 - Distributed Computing", logo: "asck.png"}],
+    "2026-05-06": [{name: "FredagsStandup: Maj", logo: "flogo.svg"}, {name: "NixOS & Declarative Config", logo: "asck.png"}],
     "2026-06-03": [{name: "FredagsStandup: Juni", logo: "flogo.svg"}],
     
     "2026-02-06": [{name: "Bærbar: Semesterstart", logo: "flogo.svg"}],
@@ -31,13 +35,6 @@ const eventlist = {
     
     "2026-05-02": [{name: "F-Klubbens 50-års Jubilæum", logo: "flogo.svg"}],
     "2026-05-14": [{name: "F-Sportsdag", logo: "initiv.svg"}],
-
-    "2026-02-18": [{name: "Linux Install Party", logo: "asck.png"}],
-    "2026-03-04": [{name: "Git Gut with Git and Shell", logo: "asck.png"}],
-    "2026-03-18": [{name: "SBCC - Running & Benchmarking Clusters", logo: "asck.png"}],
-    "2026-04-08": [{name: "Code Golfing 101 - Elegance in Conciseness", logo: "asck.png"}],
-    "2026-04-22": [{name: "Kubernetes 101 - Distributed Computing", logo: "asck.png"}],
-    "2026-05-06": [{name: "NixOS & Declarative Configuration", logo: "asck.png"}],
 
     //"2025-09-19": [{name: "Generalforsamling 2025", logo: "flogo.svg"}],
     //"2025-09-24": [{name: "Brætspilsaften m. Prosa", logo: "adsl.png"}],
