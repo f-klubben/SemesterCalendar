@@ -90,6 +90,13 @@ footer article:nth-child(8) {
     justify-content: center;
     text-align: center;
 }
+footer article:nth-child(9) {
+    grid-column: 7 / 8;
+    grid-row: 1 / 3;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
 footer article {
     display: flex;
     font-size: 0.8rem;
