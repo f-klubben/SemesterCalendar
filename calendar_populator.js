@@ -1,6 +1,6 @@
 const eventlist = {
     "2026-02-04": [{name: "FredagsStandup: Februar", logo: "flogo.svg"}],
-    "2026-02-18": [{name: "Linux Install Party", logo: "asck.png"}],
+    "2026-02-18": [{name: "Falbum øvedag (2/3)", logo: "flogo.svg"}, {name: "Linux Install Party", logo: "asck.png"}],
     "2026-03-04": [{name: "FredagsStandup: Marts", logo: "flogo.svg"}, {name: "Git Gut with Git and Shell", logo: "asck.png"}],
     "2026-03-18": [{name: "SBCC - Running & Benchmarking Clusters", logo: "asck.png"}],
     "2026-04-01": [{name: "FredagsStandup: April", logo: "flogo.svg"}],
@@ -11,16 +11,21 @@ const eventlist = {
     
     "2026-02-06": [{name: "Bærbar: Semesterstart", logo: "flogo.svg"}],
     "2026-03-06": [{name: "Bærbar", logo: "flogo.svg"}],
+    "2026-03-25": [{name: "Brætspilsaften + Generalforsamling", logo: "adsl.png"}],
+
+    "2026-02-16": [{name: "Falbum øvedag (1/3)", logo: "flogo.svg"}],
+    "2026-02-19": [{name: "Falbum øvedag (3/3)", logo: "flogo.svg"}],
+    "2026-02-24": [{name: "Falbum indspilningsdag", logo: "flogo.svg"}],
 
     "2026-02-05": [{name: "Opstart og filmafstemning", logo: "fkult.webp"}],    
-    "2026-02-12": [{name: "Filmaften 1", logo: "fkult.webp"}],
-    "2026-02-26": [{name: "Filmaften 2", logo: "fkult.webp"}],
-    "2026-03-12": [{name: "Filmaften 3", logo: "fkult.webp"}],
-    "2026-03-26": [{name: "Filmaften 4", logo: "fkult.webp"}],
-    "2026-04-09": [{name: "Filmaften 5", logo: "fkult.webp"}],
-    "2026-04-23": [{name: "Filmaften 6", logo: "fkult.webp"}],
-    "2026-05-07": [{name: "Filmaften 7", logo: "fkult.webp"}],
-    "2026-05-21": [{name: "Filmaften 8", logo: "fkult.webp"}],
+    "2026-02-12": [{name: "Filmaften: Hvad laver de rige nu?", logo: "fkult.webp"}],
+    "2026-02-26": [{name: "Filmaften: Sort/Hvid aften", logo: "fkult.webp"}],
+    "2026-03-12": [{name: "Filmaften: Kæmpe obsession eller kæmpe talent? Begge?", logo: "fkult.webp"}],
+    "2026-03-26": [{name: "Filmaften: Literally 1984 Comedy", logo: "fkult.webp"}, {name: "Bowling 2026!", logo: "fixd.png"}],
+    "2026-04-09": [{name: "Filmaften: Totally mentally stable characters", logo: "fkult.webp"}],
+    "2026-04-23": [{name: "Filmaften: Cinema Paradiso", logo: "fkult.webp"}],
+    "2026-05-07": [{name: "Filmaften: Hvad tror vi på når Sovjet vakler?", logo: "fkult.webp"}],
+    "2026-05-21": [{name: "Filmaften: Rotter i køkkenet fra Pixar og Temu", logo: "fkult.webp"}],
     
     "2026-02-13": [{name: "Val(g)entines Bar m. SoFiA", logo: "adsl.png"}],
 
